@@ -1,4 +1,4 @@
-# Lottie-Demo-iOS
+# Lottie-iOS-Demo
 ## How To
 https://qiita.com/SNQ-2001/items/1ddaff40ab44c19034e4
 
